@@ -11,7 +11,7 @@
 
 
 // ESERCIZIO 1
-/* function checkAge() {
+function checkAge() {
     const myAge = 32;
     const message = '';
 
@@ -21,7 +21,7 @@
         message = 'Hai più di 18 anni!';
     }
 }
-checkAge(); */
+checkAge();
 // La funzione non fa nulla di particolare, dichiara un'età (const) e stabilisce
 // che se l'età ha un valore sotto 18, compare un messaggio
 // o altrimenti, compare un altro messaggio
@@ -33,12 +33,12 @@ checkAge(); */
 // siccome non è definito
 
 
-/*  // ESERCIZIO 2
+ // ESERCIZIO 2
 function printColorsNumber() {
     const colors = ['blue', 'red', 'yellow', 'green', 'black'];
     console.log(`Nella mia palette ci sono ${colors.lenght} colori!`);
 }
-printColorsNumber(); */
+printColorsNumber();
 // La funzione non fa nulla di particolare con l'array "colors", si limita a
 // confermarne il numero dei suoi elementi con un .log
 
@@ -50,13 +50,13 @@ printColorsNumber(); */
 
 
 // ESERCIZIO 3
-/* function addNumbers() {
+function addNumbers() {
     const userNumber = prompt('Inserisci un numero');
     const total = userNumber + 12;
 
     console.log(`Il risultato finale è ${total}`);
 }
-addNumbers(); */
+addNumbers();
 // la funzione chiede all'utente di inserire un valore numerico e lo somma
 // ad un valore prestabilito
 
