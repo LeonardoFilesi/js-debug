@@ -45,8 +45,7 @@ printColorsNumber(); */
 // Errore di sintassi:
 // indicare quanti elementi ci sono nell'array "colors" con "colors.lenght"
 // non viene letto
-
-// AH NO, LENGTH si è stato scritto male
+// LENGTH si è stato scritto male
 
 
 
@@ -61,7 +60,7 @@ addNumbers(); */
 // la funzione chiede all'utente di inserire un valore numerico e lo somma
 // ad un valore prestabilito
 
-// Errore do sintassi:
+// Errore di sintassi:
 // bisognerebbe aggiungere una variabile 
 // "let insertedNumber = parseInt(userNumber)"
 // ed usare questa nuova variabile nel calcolo di "total"
@@ -89,3 +88,7 @@ function checkAccess() {
     }
 }
 checkAccess();
+
+// la funzione mette in paragone l'email richiesta ed inserirta dall'utente
+// con quelle di un array prestabilito
+
