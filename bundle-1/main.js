@@ -46,6 +46,8 @@ printColorsNumber(); */
 // indicare quanti elementi ci sono nell'array "colors" con "colors.lenght"
 // non viene letto
 
+// AH NO, LENGTH si è stato scritto male
+
 
 
 // ESERCIZIO 3
